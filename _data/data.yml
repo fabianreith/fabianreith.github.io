@@ -13,12 +13,12 @@ sidebar:
   avatar: Profile_Photo_British_Museum.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: 
+  email: Fabian.H.Reith@gmail.com
   phone: 
   timezone: Europe/Berlin
   citizenship:
-  website: # Include the full website URL, including "http://" or "https://".
-  linkedin: https://www.linkedin.com/in/fabian-reith-293107113/
+  website: https://fabian-reith.de
+  linkedin: fabian-reith-293107113
   xing: 
   github: fabianreith
   telegram: 
@@ -183,50 +183,65 @@ certifications:
 publications:
   title: Publications
   intro: |
-    Selected peer-reviewed publications in machine learning and computational pathology.
+    Selected peer-reviewed publications in machine learning, medical imaging, and computational pathology.
   papers:
-  - title: "PEERCE: A Data-Efficient Deep Learning Pipeline for PD-L1 Biomarker Prediction"
-    link: "#"
-    authors: Reith, F.H. et al.
-    conference: "Journal of Pathology Informatics, 2024"
+  - title: "PD-L1 Expression Assessment in Angiosarcoma Improves with Artificial Intelligence Support"
+    link: "https://doi.org/10.1016/j.jpi.2025.100447"
+    authors: F.H. Reith, A. Jarosch, J.P. Albrecht, et al.
+    conference: "Journal of Pathology Informatics (2025)"
 
-  - title: "SelfAdapt: Source-Free Unsupervised Domain Adaptation for Cell Segmentation"
-    link: "#"
-    authors: Reith, F.H. et al.
-    conference: "ICCV BIC Workshop, 2023"
+  - title: "SelfAdapt: Unsupervised Domain Adaptation of Cell Segmentation Models"
+    link: "https://openaccess.thecvf.com/content/ICCV2025W/BIC/html/Reith_SelfAdapt_Unsupervised_Domain_Adaptation_of_Cell_Segmentation_Models_ICCVW_2025_paper.html"
+    authors: F.H. Reith, J. Franzen, D. Palli, J.L. Rumberger, D. Kainmueller
+    conference: "ICCV Workshop on Bioimage Computing (2025)"
 
-  - title: "PhenoBench: Evaluating Pathology Foundation Models Under Domain Shift"
-    link: "#"
-    authors: Reith, F.H. et al.
-    conference: "MICCAI, 2024"
+  - title: "PathoCellBench: A Comprehensive Benchmark for Cell Phenotyping"
+    link: "https://link.springer.com/chapter/10.1007/978-3-032-04981-0_39"
+    authors: F.H. Reith, J. Lüscher, N. Koreuber, J. Franzen, et al.
+    conference: "MICCAI (2025)"
+
+  - title: "Predicting Future Amyloid Biomarkers in Dementia Patients with Machine Learning"
+    link: "https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/trc2.12212"
+    authors: F.H. Reith, E.C. Mormino, G. Zaharchuk
+    conference: "Alzheimer's & Dementia (2021)"
+
+  - title: "A Convolutional Neural Network Reaches Optimal Sensitivity for Detecting Some, but Not All, Patterns"
+    link: "https://ieeexplore.ieee.org/abstract/document/9268149/"
+    authors: F.H. Reith, B.A. Wandell
+    conference: "IEEE Access (2020)"
+
+  - title: "Application of Deep Learning to Predict Standardized Uptake Value Ratio and Amyloid Status on 18F-Florbetapir PET"
+    link: "https://www.ajnr.org/content/41/6/980.abstract"
+    authors: F.H. Reith, M.E. Koran, G. Davidzon, G. Zaharchuk
+    conference: "American Journal of Neuroradiology (2020)"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
+  - name: Python
+    level: 98%
+
   - name: PyTorch
     level: 95%
 
-  - name: TensorFlow & Keras
+  - name: HuggingFace Transformers
+    level: 85%
+
+  - name: Git & Linux
     level: 90%
 
-  - name: Python
-    level: 98%
+  - name: scikit-learn
+    level: 85%
+
+  - name: Docker
+    level: 80%
 
   - name: SQL
     level: 80%
 
-  - name: C++
-    level: 70%
-
-  - name: Java
-    level: 65%
-
-  - name: JavaScript
-    level: 60%
-
-  - name: Caffe
-    level: 70%
+  - name: OpenCV
+    level: 75%
 
 footer: >
   
