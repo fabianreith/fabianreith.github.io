@@ -15,13 +15,14 @@ sidebar:
   # Sidebar links
   email: Fabian.H.Reith@gmail.com
   phone: 
-  timezone: Europe/Berlin
+  timezone: 
   citizenship:
-  website: https://fabian-reith.de
+  website: 
   linkedin: fabian-reith
   xing: 
   github: fabianreith
   orcid: 0000-0002-0745-2726
+  googlescholar: 4NurTC0AAAAJ
   telegram: 
   gitlab:
   bitbucket:
@@ -48,7 +49,7 @@ sidebar:
       level: B1
 
     - idiom: Latin
-      level: Proficiency Certificate
+      level: Latinum
 
   interests:
     title: Interests
@@ -59,7 +60,7 @@ sidebar:
     - item: Scuba Diving (Advanced Open Water)
       link:
 
-    - item: Space Travel
+    - item: Astronomy
       link:
 
     - item: Paragliding
@@ -169,8 +170,17 @@ education:
       Grade: 1.74 (top 10%)
 
 certifications:
-  title: Certifications
+  title: Patents & Certifications
   list:
+  - name: Systems and Methods for Improved Prognostics in Medical Imaging
+    start: 2022
+    organization: US Patent Office
+    credentialid: 17647950
+    credentialurl: patents.google.com/patent/US20220223231A1/en
+    credentialname: US Patent Application
+    details: |
+      Co-inventor with Greg Zaharchuk. Methods for predicting biomarker progression in medical imaging to identify fast/moderate/slow progressors for clinical trial enrollment.
+
   - name: Machine Learning
     start: 
     end:
@@ -180,6 +190,23 @@ certifications:
     credentialname: 
     details: |
       Stanford University Machine Learning Certificate via Coursera
+
+projects:
+  title: Open Source Projects
+  intro: |
+    Key open-source contributions in computational pathology and machine learning.
+  assignments:
+  - title: PEERCE
+    link: "https://github.com/Kainmueller-Lab/PEERCE"
+    tagline: "Pipeline for PD-L1 Tumor Proportion Score prediction using foundation models and fine-tuned segmentation networks."
+
+  - title: SelfAdapt
+    link: "https://github.com/Kainmueller-Lab/self_adapt"
+    tagline: "Source-free Unsupervised Domain Adaptation framework for cell segmentation, extending the Cellpose ecosystem."
+
+  - title: Pathology Foundation Model Benchmark
+    link: "https://github.com/Kainmueller-Lab/Pathology-Foundation-Model-Benchmark"
+    tagline: "Comprehensive benchmarking framework to evaluate pathology foundation models under domain shifts."
 
 publications:
   title: Publications
