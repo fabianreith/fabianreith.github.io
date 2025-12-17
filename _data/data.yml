@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Dr. rer. nat. Fabian H. Reith
-  tagline: Machine Learning Engineer & Researcher
+  tagline: Machine Learning Engineer & Researcher | Munich
   avatar: Profile_Photo_British_Museum.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -18,9 +18,10 @@ sidebar:
   timezone: Europe/Berlin
   citizenship:
   website: https://fabian-reith.de
-  linkedin: fabian-reith-293107113
+  linkedin: fabian-reith
   xing: 
   github: fabianreith
+  orcid: 0000-0002-0745-2726
   telegram: 
   gitlab:
   bitbucket:
@@ -71,41 +72,6 @@ career-profile:
     - Motivated to leverage deep understanding of machine learning algorithms and workflows to create a positive impact.
     - Passion for creating machine learning applications, ensuring the highest standards of quality, as well as scientific rigor.
     - Creative, collaborative, and innovation focused.
-
-education:
-  title: Education
-  info:
-  - degree: PhD in Computer Science
-    university: Humboldt University Berlin
-    time: Aug 2020 - Dec 2025
-    details: |
-      Magna cum laude
-      
-      CompCancer Graduate School at Charité Berlin & MDC Berlin
-  
-  - degree: MSc in Computer Science
-    university: Technical University of Munich
-    time: Oct 2015 - Apr 2020
-    details: |
-      Grade: 1.30 (top 5%)
-
-  - degree: Visiting Research Scholar
-    university: Stanford University
-    time: Oct 2018 - Jul 2020
-    details: |
-      Master's Thesis completed at Stanford (Grade: 1.00)
-
-  - degree: Semester Abroad
-    university: Hong Kong Baptist University
-    time: Oct 2016 - Jan 2017
-    details: |
-      4.00 GPA
-
-  - degree: BSc in Management and Technology
-    university: Technical University of Munich
-    time: Oct 2011 - Jun 2015
-    details: |
-      Grade: 1.74 (top 10%)
 
 experiences:
   title: Experience
@@ -167,6 +133,41 @@ experiences:
       Use of big industry-specific dataset to create pretrained CNN weights for transfer learning. Resulting CNN presented to Bosch CEO at research presentation session.
         - Modification of C++ Caffe Deep Learning Framework to allow for 4-channel CNN input. Implementation of improved data pre-processing pipeline.
 
+education:
+  title: Education
+  info:
+  - degree: PhD in Computer Science
+    university: Humboldt University Berlin
+    time: Aug 2020 - Dec 2025
+    details: |
+      Magna cum laude
+      
+      CompCancer Graduate School at Charité Berlin, MDC Berlin & Helmholtz Imaging
+  
+  - degree: MSc in Computer Science
+    university: Technical University of Munich
+    time: Oct 2015 - Apr 2020
+    details: |
+      Grade: 1.30 (top 5%)
+
+  - degree: Visiting Research Scholar
+    university: Stanford University
+    time: Oct 2018 - Jul 2020
+    details: |
+      Master's Thesis completed at Stanford (Grade: 1.00)
+
+  - degree: Semester Abroad
+    university: Hong Kong Baptist University
+    time: Oct 2016 - Jan 2017
+    details: |
+      4.00 GPA
+
+  - degree: BSc in Management and Technology
+    university: Technical University of Munich
+    time: Oct 2011 - Jun 2015
+    details: |
+      Grade: 1.74 (top 10%)
+
 certifications:
   title: Certifications
   list:
@@ -223,10 +224,13 @@ skills:
     level: 98%
 
   - name: PyTorch
-    level: 95%
+    level: 98%
 
   - name: HuggingFace Transformers
-    level: 85%
+    level: 95%
+
+  - name: OpenCV
+    level: 90%
 
   - name: Git & Linux
     level: 90%
@@ -240,8 +244,6 @@ skills:
   - name: SQL
     level: 80%
 
-  - name: OpenCV
-    level: 75%
 
 footer: >
   
