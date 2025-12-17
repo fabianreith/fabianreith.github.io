@@ -4,283 +4,229 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Dr. rer. nat. Fabian H. Reith
+  tagline: Machine Learning Engineer & Researcher
+  avatar: Profile_Photo_British_Museum.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: 
+  phone: 
+  timezone: Europe/Berlin
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/fabian-reith-293107113/
+  xing: 
+  github: fabianreith
+  telegram: 
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  bluesky: 
+  twitter: 
+  stack-overflow: 
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads: 
+  mastodon: 
+  hackerrank: 
+  leetcode: 
+  pdf: 
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: German
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Fluent (TOEFL 114/120)
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: French
+      level: B1
+
+    - idiom: Latin
+      level: Proficiency Certificate
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Travel Photography
       link:
 
-
-    - item: Snowboarding
+    - item: Scuba Diving (Advanced Open Water)
       link:
 
-
-    - item: Cooking
+    - item: Space Travel
       link:
 
+    - item: Paragliding
+      link:
 
 career-profile:
-  title: Career Profile
+  title: Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    - History of successful work in interdisciplinary & intercultural environments.
+    - Motivated to leverage deep understanding of machine learning algorithms and workflows to create a positive impact.
+    - Passion for creating machine learning applications, ensuring the highest standards of quality, as well as scientific rigor.
+    - Creative, collaborative, and innovation focused.
+
 education:
   title: Education
   info:
+  - degree: PhD in Computer Science
+    university: Humboldt University Berlin
+    time: Aug 2020 - Dec 2025
+    details: |
+      Magna cum laude
+      
+      CompCancer Graduate School at Charité Berlin & MDC Berlin
+  
   - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    university: Technical University of Munich
+    time: Oct 2015 - Apr 2020
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Grade: 1.30 (top 5%)
+
+  - degree: Visiting Research Scholar
+    university: Stanford University
+    time: Oct 2018 - Jul 2020
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Master's Thesis completed at Stanford (Grade: 1.00)
+
+  - degree: Semester Abroad
+    university: Hong Kong Baptist University
+    time: Oct 2016 - Jan 2017
+    details: |
+      4.00 GPA
+
+  - degree: BSc in Management and Technology
+    university: Technical University of Munich
+    time: Oct 2011 - Jun 2015
+    details: |
+      Grade: 1.74 (top 10%)
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: PhD Student
+    time: Aug 2020 - Dec 2025
+    company: CompCancer Graduate School, Charité Berlin, MDC Berlin, Humboldt University Berlin
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      **Data-Efficient Deep Learning for Biomarker Prediction in Angiosarcoma**
+        - Development of an open-source pipeline (PEERCE) leveraging pre-trained generalist models and fine-tuned segmentation/classification networks for PD-L1 Tumor Proportion Score (TPS) prediction.
+        - Validated the tool's utility to improve pathologist concordance. Published in Journal of Pathology Informatics.
+
+      **Unsupervised Domain Adaptation for Generalist Cell Segmentation Models**
+        - Design and implementation of SelfAdapt, a source-free Unsupervised Domain Adaptation (UDA) framework.
+        - Introduced and evaluated novel label-free early stopping criteria. Delivered the method as an open-source extension to the Cellpose ecosystem. Published in ICCV BIC.
+
+      **PhenoBench: A Comprehensive Benchmark for Foundation Model Evaluation in Pathology**
+        - Development of a benchmarking framework to evaluate the generalization of pathology foundation models under technical and medical domain shifts. Implemented in Python using PyTorch. Published in MICCAI.
+
+  - role: Machine Learning Engineer
+    time: Jan 2021 - Oct 2023
+    company: Subtle Medical
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      **Deep Learning for Tau PET Prediction in Alzheimer's Disease**
+        - Led a collaboration with Eli Lilly to develop an AI framework for predicting future Tau accumulation from baseline scans + clinical/genetic covariates (deep CNN feature extraction + tree-based models).
+        - Demonstrated superior performance in identifying rapid progressors, optimizing patient selection strategies.
+
+  - role: Visiting Research Scholar
+    time: Oct 2018 - Jul 2020
+    company: Stanford University
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      **Systematic benchmark to analyze CNN performance as well as relative generalization capabilities**
+        - Use of simulated static patterns to assess CNN performance. CNN training and testing coded in Python using PyTorch. Experiments were run on a Stanford high performance cluster, as well as Google Cloud. Published.
+
+      **Deep Learning to Predict Standardized Uptake Value Ratio and Amyloid Status on 18F-florbetapir**
+        - Creation of deep learning pre-processing pipeline and CNN training on compute cluster. Published.
+
+      **Predicting Future Imaging Biomarkers with Machine Learning: An Amyloid Study**
+        - Employment of CNNs and gradient boosted decision tree to predict development of standardized uptake value ratio. Method was patented. Published.
+
+  - role: Deep Learning Exchange
+    time: Jan 2018 - Jun 2018
+    company: Robert Bosch LLC
+    details: |
+      Lead development and deployment of service for visual detection of erroneous production parts.
+        - Combined neural network classification with low-latency algorithmic image segmentation to identify manufacturing errors in production parts. Researched ways to reduce generalization error.
+
+  - role: Scientific Programmer
+    time: Jun 2017 - Dec 2017
+    company: Acrai
+    details: |
+      Implementation and benchmarking of object detecting CNNs to identify weeds in farming environments.
+        - Established new data preprocessing pipeline and modified TensorFlow Object Detection API for enhanced validation.
+
+  - role: Machine Learning Research Intern
+    time: Feb 2017 - Apr 2017
+    company: Robert Bosch LLC
+    details: |
+      Use of big industry-specific dataset to create pretrained CNN weights for transfer learning. Resulting CNN presented to Bosch CEO at research presentation session.
+        - Modification of C++ Caffe Deep Learning Framework to allow for 4-channel CNN input. Implementation of improved data pre-processing pipeline.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Machine Learning
+    start: 
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: Stanford University & Coursera
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      Stanford University Machine Learning Certificate via Coursera
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Selected peer-reviewed publications in machine learning and computational pathology.
   papers:
-  - title: The Art of Computer Programming
+  - title: "PEERCE: A Data-Efficient Deep Learning Pipeline for PD-L1 Biomarker Prediction"
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Reith, F.H. et al.
+    conference: "Journal of Pathology Informatics, 2024"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: "SelfAdapt: Source-Free Unsupervised Domain Adaptation for Cell Segmentation"
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: Reith, F.H. et al.
+    conference: "ICCV BIC Workshop, 2023"
 
-  - title: A syntax directed compiler for Algol 60
+  - title: "PhenoBench: Evaluating Pathology Foundation Models Under Domain Shift"
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+    authors: Reith, F.H. et al.
+    conference: "MICCAI, 2024"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: PyTorch
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: TensorFlow & Keras
+    level: 90%
 
-  - name: Sketch & Photoshop
+  - name: Python
+    level: 98%
+
+  - name: SQL
+    level: 80%
+
+  - name: C++
+    level: 70%
+
+  - name: Java
+    level: 65%
+
+  - name: JavaScript
     level: 60%
 
+  - name: Caffe
+    level: 70%
+
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  
